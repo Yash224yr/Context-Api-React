@@ -10,7 +10,7 @@ function Home() {
    
 
   return (
-   <div>
+   <div className='all'>
         {
             blog.map((element)=>{
                 return (

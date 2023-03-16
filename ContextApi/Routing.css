@@ -75,3 +75,12 @@ button{
 .blogres{
     margin-top: 20px;
 }
+.all{
+    display: flex;
+    flex-wrap: wrap;
+}
+.blogres{
+    height: auto;
+    width: 328px;
+    margin: 20px auto;
+}
